@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="youtube-banner.png" alt="YouTube Channel Strategy Banner" width="100%">
+</p>
 # 🚀 Project 3: Data-Driven YouTube Channel Strategy & Growth Framework
 
 <p align="center">
