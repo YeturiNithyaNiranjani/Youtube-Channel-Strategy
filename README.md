@@ -19,7 +19,7 @@
 | **Organization** | CODTECH IT Solutions |
 | **Project Reference** | Task 3 - YouTube Channel Strategy |
 | **Target Channel** | Sample Educational & Technology Channel |
-| **Timeline** | 2 Months (Strategy Formulation to Performance Optimization) |
+| **Timeline** | 2 Months (Strategy Development & Performance Optimization) |
 
 ---
 
