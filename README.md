@@ -1,16 +1,13 @@
 <p align="center">
   <img src="youtube-banner.png" alt="YouTube Channel Strategy Banner" width="100%">
 </p>
-# 🚀 Project 3: Data-Driven YouTube Channel Strategy & Growth Framework
+# 🚀 Project 3: YouTube Channel Strategy & Growth Framework
 
 <p align="center">
   <img src="https://img.shields.io/badge/DOMAIN-DIGITAL%20MARKETING-blue?style=for-the-badge" alt="Domain" />
   <img src="https://img.shields.io/badge/PLATFORM-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/TOOLS-YOUTUBE%20STUDIO%20%7C%20CANVA%20%7C%20GOOGLE%20SHEETS-orange?style=for-the-badge" alt="Tools" />
-  <img src="https://img.shields.io/badge/DURATION-2%20MONTHS-green?style=for-the-badge" alt="Duration" />
-</p>
-
----
+  <img src="https://img.shields.io/badge/DURATION-2%20MONTHS-green?style=for-the-badge" alt="Duration" /
 
 ## 📋 Internship & Candidate Profile
 
