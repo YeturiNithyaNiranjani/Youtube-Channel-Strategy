@@ -1,9 +1,10 @@
 # 🚀 Project 3: Data-Driven YouTube Channel Strategy & Growth Framework
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Digital%20Marketing-blue?style=for-the-badge&logo=google-ads&logoColor=white" alt="Domain">
-  <img src="https://img.shields.io/badge/Tools-YouTube%20Studio%20%7C%20Canva%20%7C%20Sheets-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tools">
-  <img src="https://img.shields.io/badge/Duration-2%20Months-green?style=for-the-badge" alt="Duration">
+  <img src="https://img.shields.io/badge/DOMAIN-DIGITAL%20MARKETING-blue?style=for-the-badge" alt="Domain" />
+  <img src="https://img.shields.io/badge/PLATFORM-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/TOOLS-YOUTUBE%20STUDIO%20%7C%20CANVA%20%7C%20GOOGLE%20SHEETS-orange?style=for-the-badge" alt="Tools" />
+  <img src="https://img.shields.io/badge/DURATION-2%20MONTHS-green?style=for-the-badge" alt="Duration" />
 </p>
 
 ---
@@ -17,14 +18,14 @@
 | **Domain** | Digital Marketing |
 | **Organization** | CODTECH IT Solutions |
 | **Project Reference** | Task 3 - YouTube Channel Strategy |
-| **Target Channel** | **TechVerse Insights** *(A Benchmark Educational & Tech Channel)* |
+| **Target Channel** | Sample Educational & Technology Channel |
 | **Timeline** | 2 Months (Strategy Formulation to Performance Optimization) |
 
 ---
 
 ## 🔍 Executive Project Overview
 
-In the modern digital ecosystem, video content is the most powerful tool for brand building and knowledge sharing. This project outlines a sophisticated, data-driven **YouTube Channel Strategy** crafted specifically for *TechVerse Insights* (a sample educational and technology channel). The core mandate is to transform standard, irregular video creation into a highly structured, discoverable, and authoritative media asset.
+In the modern digital ecosystem, video content is one of the most powerful tools for brand building and knowledge sharing. This project outlines a sophisticated, data-driven **YouTube Channel Strategy** crafted specifically for *TechVerse Insights* (a sample educational and technology channel). The core mandate is to transform standard, irregular video creation into a highly structured, discoverable, and authoritative media asset.
 
 This framework moves away from random content publishing by introducing advanced audience psychographics, intense competitor benchmarking, aggressive YouTube Search Engine Optimization (SEO), standardized monthly publishing cadences, and continuous metadata iteration. The ultimate objective is to scale channel metrics sustainably, boost organic impressions, and build a high-retention subscriber community from scratch.
 
@@ -125,4 +126,4 @@ What gets measured gets managed. Performance monitoring focuses heavily on:
 
 ## 💡 Strategic Conclusion
 
-A successful YouTube presence is the result of methodical engineering, not luck. This YouTube Channel Strategy provides **TechVerse Insights** with an agile, deeply analytical roadmap designed to systematically decode the algorithm and captivate target audiences. By continually aligning content production with objective audience retention data and aggressive search optimization frameworks, the channel is perfectly positioned to unlock geometric viewer growth, build lasting brand authority, and foster a thriving, monetization-ready global audience.
+A successful YouTube presence is the result of methodical engineering, not luck. This YouTube Channel Strategy provides **TechVerse Insights** with an agile, deeply analytical roadmap designed to systematically decode the algorithm and captivate target audiences. By continually aligning content production with objective audience retention data and aggressive search optimization frameworks, the channel is perfectly positioned to unlock Sustainable viewer growth, build lasting brand authority, and foster a thriving, monetization-ready global audience.
