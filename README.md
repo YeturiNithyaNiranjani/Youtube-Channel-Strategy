@@ -15,7 +15,7 @@
 | **Intern Name** | Yeturi Nithya Niranjani |
 | **Intern ID** | CITS1133 |
 | **Domain** | Digital Marketing |
-| **Organization** | CODTECH IT Solutions |
+| **Organization** | CODTECH IT Solutions Private Limited |
 | **Project Reference** | Task 3 - YouTube Channel Strategy |
 | **Target Channel** | Sample Educational & Technology Channel |
 
