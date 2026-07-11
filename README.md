@@ -59,6 +59,11 @@ A thorough review of top-performing tech channels was conducted to extract winni
 * **Core Metric Analysis:** Assessing video pacing, intro hooks (the first 30 seconds), and call-to-actions (CTAs) of multi-million subscriber channels.
 * **Format Evaluation:** Analyzing the performance split between long-form deep dives (10-15 mins), short snackable technical bytes (Shorts), and community tab interactions.
 * **Best Practice Blueprinting:** Standardizing an automated checklist based on what works best in the industry—ensuring our channel bypasses the typical beginner trial-and-error phase.
+<p align="center">
+  <img src="competitor-benchmarking.png" width="500">
+</p>
+
+<p align="center"><i>Figure 2: Competitor Benchmarking & Landscape Analysis</i></p>
 
 ### 📅 3. Comprehensive Content Strategy & Calendar
 Consistency is the algorithm's best friend. The strategy establishes a structured content engine:
