@@ -70,6 +70,11 @@ Consistency is the algorithm's best friend. The strategy establishes a structure
 * **The 30-Day Content Matrix:** A rigid blueprint breaking down weekly content pillars (e.g., Tuesday: Step-by-Step Tutorials; Friday: Tech News/Trends).
 * **Video Series Architecture:** Designing repeatable formats like *"Tech Basics Demystified"* or *"The Weekly Byte"* to build episodic viewer loyalty and encourage binge-watching.
 * **Batch Production Workflow:** Implementing a system where scripts, audio, and visuals are prepared in batches, ensuring a 2-week video buffer is always ready.
+<p align="center">
+  <img src="content-calendar.png" width="500">
+</p>
+
+<p align="center"><i>Figure 3: Comprehensive YouTube Content Calendar</i></p>
 
 ### 🛠️ 4. Advanced YouTube SEO Engine
 Discoverability relies completely on indexing. The strategy implements a strict metadata framework:
