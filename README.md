@@ -94,6 +94,11 @@ Visuals dictate whether an impression turns into a view. The strategy provides d
 * **Thumbnail Psychology:** Enforcing rules based on the "Rule of Thirds", high-contrast color grading (avoiding excessive YouTube red/black to stand out), large bold typography (max 3-4 words), and expressive human faces.
 * **Visual Cohesion:** Standardizing a clean typography set and dual-color identity across banners, avatars, and watermarks to make the channel look instantly professional and authoritative.
 * **Community Engagement Blueprint:** Scripting natural pinned-comment discussion prompts and community tab polls to drive post-upload engagement signals.
+<p align="center">
+  <img src="branding-high-ctr.png" width="500">
+</p>
+
+<p align="center"><i>Figure 4: Channel Branding & High-CTR Design Guidelines</i></p>
 
 ### 📊 6. Analytics Rigor & KPI Tracking
 What gets measured gets managed. Performance monitoring focuses heavily on:
