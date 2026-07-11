@@ -48,6 +48,11 @@ To capture a loyal audience, we must understand *who* is watching. The strategy 
 * **The Tech Enthusiast:** Looks for weekly tech updates, career advice, and breakdowns of emerging tech trends (AI, Software tools).
 * **Demographic Target:** Main focus on the 18–34 age demographic, optimized heavily for mobile viewing experiences (as over 75% of educational content consumption occurs on mobile devices).
 * **Content Gap Identification:** Using keyword tools to pinpoint high-volume search queries that currently suffer from low-quality or outdated video answers on YouTube.
+<p align="center">
+  <img src="audience-analytics.png" width="500">
+</p>
+
+<p align="center"><i>Figure 1: YouTube Audience Analytics & Persona Mapping</i></p>
 
 ### 🏁 2. Competitor Benchmarking & Landscape Analysis
 A thorough review of top-performing tech channels was conducted to extract winning formulas:
